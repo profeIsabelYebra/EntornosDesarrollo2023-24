@@ -5,7 +5,7 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 
 ![1DAM_ED](https://github.com/Isabelyr/EntornosDesarrollo2023-24/assets/115794006/58e7c002-c8eb-4e91-ab33-1dd8b60b678f)
 
-Trabajar con Git de forma colaborativa
+#Trabajar con Git de forma colaborativa#
 Git es una excelente herramienta para desarrollar de forma individual y colaborativa.
 
 Supongamos que estás trabajando en un proyecto y quieres agregar una nueva funcionalidad. La forma correcta es creando una branch o rama con el nombre de la nueva funcionalidad donde agregaremos nuestros cambios.
