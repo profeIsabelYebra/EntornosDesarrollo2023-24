@@ -53,7 +53,7 @@ Otra ventaja de trabajar con git es que podemos colaborar en otro proyectos.
 
 Algunos conceptos que debes saber son:
 
-- **Fork:** hace una copia exacta de un repositorio ; creando un nuevo en tu cuenta de Github con una url diferente que podemos utilizar como un repositorio git cualquiera. Tendremos dos repositorios independientes y cada uno evoluciona de forma autónoma.
+- **Fork:** hace una copia exacta de un repositorio ; creando uno nuevo en tu cuenta de Github con una url diferente que podemos utilizar como un repositorio git cualquiera. Tendremos dos repositorios independientes y cada uno evoluciona de forma autónoma.
 - **Pull request:** es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork.
 
 Los pasos a seguir para trabajar de forma colaborativa son:
