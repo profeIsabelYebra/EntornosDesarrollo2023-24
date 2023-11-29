@@ -14,7 +14,7 @@ Ruth
 
 Alumno : Marcelo (pues es el usuario de GIthub, no Gonzalo como indicaba) 
 
-Jonathan De La Fuente Cedillo
+Jonathan De La Fuente Cedillo (recibido un segundo pullrequest solo con tu nombre)
 
 La alumna Maria Martin Tadeo
 
@@ -24,16 +24,15 @@ La profe
 
 Ivan 
 
-Sergio Sanchez
+Sergio Sanchez (ok, ahora mandado desde tu cuenta y no en conjunto con Anthony)
 
 Anthony Castillo
 
 Victor Huertas
-
-### (repe) Jonathan De La Fuente Cedillo (segundo pullrequest recibido desde tu cuenta)
 
 David García Ramírez
 
 Vicente Mena
 
 Ainhoa
+
