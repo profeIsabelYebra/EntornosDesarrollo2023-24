@@ -30,6 +30,8 @@ Anthony Castillo
 
 Victor Huertas
 
+### (repe) Jonathan De La Fuente Cedillo (segundo pullrequest recibido desde tu cuenta)
+
 David García Ramírez
 
 Vicente Mena
