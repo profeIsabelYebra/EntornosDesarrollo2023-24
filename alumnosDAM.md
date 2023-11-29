@@ -1,5 +1,7 @@
 #Listado de alumnos de 1º DAM
 
+## Daniel Silva y (Jacob Davis cuando mande su pullrequest él desde su cuenta)
+
 Ruth
 
 Alumno : Marcelo (pues es el usuario de GIthub, no Gonzalo como indicaba) 
@@ -21,4 +23,3 @@ Anthony Castillo
 Victor Huertas
 
 Ainhoa
-
