@@ -1,5 +1,7 @@
 #Listado de alumnos de 1º DAM
 
+Ruth
+
 Alumno : Marcelo (pues es el usuario de GIthub, no Gonzalo como indicaba) 
 
 Jonathan De La Fuente Cedillo
@@ -19,3 +21,4 @@ Anthony Castillo
 Victor Huertas
 
 Ainhoa
+
