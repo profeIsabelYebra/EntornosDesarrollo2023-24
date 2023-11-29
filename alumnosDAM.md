@@ -1,4 +1,21 @@
 #Listado de alumnos de 1º DAM
 
+Alumno : Marcelo (pues es el usuario de GIthub, no Gonzalo como indicaba) 
 
-Alumno : Gonzalo 
+Jonathan De La Fuente Cedillo
+
+La alumna Maria Martin Tadeo
+
+Francisco Baviano Ocampo
+
+La profe 
+
+Ivan 
+
+Sergio Sanchez
+
+Anthony Castillo
+
+Victor Huertas
+
+Ainhoa
